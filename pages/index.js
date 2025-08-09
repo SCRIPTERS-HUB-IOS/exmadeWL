@@ -1,6 +1,5 @@
 import Link from 'next/link';
-import Particles from "tsparticles-react";
-
+import Particles from "react-tsparticles";
 export default function Home() {
   const handleBrightness = (e) => {
     const value = e.target.value;
