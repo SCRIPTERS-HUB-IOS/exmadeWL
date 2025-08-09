@@ -12,6 +12,6 @@
     "react": "latest",
     "react-dom": "latest",
     "tsparticles": "latest",
-    "tsparticles-react": "latest"
+    "react-tsparticles": "latest"
   }
 }
